@@ -110,6 +110,8 @@ return [
 
 	'providers' => [
 
+        'React\ReactServiceProvider',
+
 		/*
 		 * Laravel Framework Service Providers...
 		 */
@@ -144,7 +146,7 @@ return [
 		'App\Providers\ConfigServiceProvider',
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
-        'React\ReactServiceProvider'
+
 
 	],
 

@@ -6,7 +6,7 @@
 	"type": "project",
 	"require": {
 		"laravel/framework": "5.0.*",
-        "talyssonoc/react-laravel": "0.9"
+        "talyssonoc/react-laravel": "0.9.*"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
